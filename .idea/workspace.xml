@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b29a82-5e86-4166-ac55-2295f006985e" name="Default Changelist" comment="ll">
-      <change beforePath="$PROJECT_DIR$/.idea/QAFE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +35,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1spTTEBbt8XRy83JMJZvbDq4zfy" />
@@ -68,6 +71,7 @@
       <workItem from="1622068710919" duration="6000" />
       <workItem from="1622068719742" duration="12000" />
       <workItem from="1622069051868" duration="1272000" />
+      <workItem from="1622070627685" duration="1122000" />
     </task>
     <servers />
   </component>
@@ -84,6 +88,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="528" y="286" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621570984483">
@@ -94,6 +99,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1621570498795" />
+    <state width="1364" height="165" key="GridCell.Tab.0.bottom" timestamp="1622071600772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1622071600772" />
+    <state width="1364" height="165" key="GridCell.Tab.0.center" timestamp="1622071600772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="165" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1622071600772" />
+    <state width="1364" height="165" key="GridCell.Tab.0.left" timestamp="1622071600772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="165" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1622071600772" />
+    <state width="1364" height="165" key="GridCell.Tab.0.right" timestamp="1622071600772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="165" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1622071600772" />
+    <state x="568" y="203" key="RollbackChangesDialog" timestamp="1622071647369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="203" key="RollbackChangesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1622071647369" />
     <state x="277" y="115" key="SettingsEditor" timestamp="1621570681793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -102,5 +127,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1621571638749" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1622071595775">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1622071595775" />
   </component>
 </project>
